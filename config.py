@@ -1,2 +1,0 @@
-TOKEN = 'MTM1MTE3Mzc3MDgwMjYzMDczNg.G5QcUl.PkrbLzOZFm4wKuCkTM-AL7ev5gk9flH_zw8-ME'
-PREFIX = '!'
